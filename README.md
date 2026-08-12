@@ -51,5 +51,4 @@ Start command:
 ```text
 uvicorn main:app --host 0.0.0.0 --port $PORT
 ```
-
-After deployment, open the Render URL and add `/docs` to demonstrate the API.
+RENDER URL :https://github-profile-scrapper-cmtk.onrender.com
